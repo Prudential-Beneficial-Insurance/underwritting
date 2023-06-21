@@ -1,0 +1,116 @@
+1
+
+
+
+
+
+                               C O N D I T I O N S   P A R T I C U L I E R E S
+                                  -----------------------------------------
+
+           NO DE POLICE      :      TEST2                         DATE D'EFFET      : 01/07/2023
+
+           L'ASSURE          : JISLAIN                            DATE DE NAISSANCE : 05/06/1990
+
+           LE CONTRACTANT    :  JISLAIN                           REPR. : PETNGA LEONNELLE
+
+           NO IDENTIF UNIQUE :
+
+           BENEFICIAIRE      : REF. PROPOSITION D'ASSURANCE       MONNAIE DE        : CAMEROUN
+
+           NATURE DU CONTRAT : MIXTE RETRAITE INDIVIDUELLE 14ANS  DUREE DU CONTRAT (ANS) : 14
+
+           PRIMES PAYABLES   : ANNUEL                             PAYS DE PAYMENT   : CAMEROUN
+                                 (MOIS: JUL.                )
+                                                                  DATE DE MATURITE  : 01/07/2037
+
+           MONTANT NOMINAL CFA:          412 960                  PRIME       FCFA :      41 990
+
+           CONTRATS SUPPLEMENTAIRES
+            IMPRIME 130/FORM 130    (A.I)                                      CFA :       2 271
+           DISABILITY PRM                                                      CFA :          41
+           TVA                                                                 CFA :       5 698
+                                                                  ------------------------------
+                                                                  TOTAL        CFA :      50 000
+           FAIT A DOUALA, REPUBLIQUE DU CAMEROUN, LE 21/06/2023
+
+         ----------------------------------------------------------------------------------------
+                               BENEFICES DU CONTRAT DE BASE
+          DUREE:     1an     2ans     3ans     4ans     5ans     6ans     7ans     8ans  ECHEANCE
+                 ------- -------- -------- -------- -------- -------- -------- -------- ---------
+           PRM:    41990    83980   125970   167960   209950   251940   293930   335920    587860
+            CD:   412960   412960   412960   412960   412960   412960   412960   412960    247776
+          PMTY:        0        0    41296    42741    44237    87081    90129    93283    207951
+            VR:        0             55516    46887    74956   104032    93422   123069
+
+           PRM: Cumul des Primes.     CD: Capital vers{ en cas de D{c}s ou @ {cheance.
+          PMTY: Maturit{s Partielles Investies.      VR: Valeur de Rachat.
+
+         J'ai pris connaissance des dispositions du contrat.
+         Les garanties qui y figurent sont conformes @
+         celles demand{es dans la proposition. Mon {tat
+         de sant{ n'a pas chang{ depuis ma demande
+         d'assurance.
+
+         Date: ______________________
+
+
+         _________________________    _________________________    __________________________
+              Le Contractant                  L'Assur{             PRUDENTIAL BENEFICIAL LIFE
+1
+
+
+
+
+
+                               C O N D I T I O N S   P A R T I C U L I E R E S
+                                  -----------------------------------------
+
+           NO DE POLICE      :      TEST2                         DATE D'EFFET      : 01/07/2023
+
+           L'ASSURE          : JISLAIN                            DATE DE NAISSANCE : 05/06/1990
+
+           LE CONTRACTANT    :  JISLAIN                           REPR. : PETNGA LEONNELLE
+
+           NO IDENTIF UNIQUE :
+
+           BENEFICIAIRE      : REF. PROPOSITION D'ASSURANCE       MONNAIE DE        : CAMEROUN
+
+           NATURE DU CONTRAT : MIXTE RETRAITE INDIVIDUELLE 14ANS  DUREE DU CONTRAT (ANS) : 14
+
+           PRIMES PAYABLES   : ANNUEL                             PAYS DE PAYMENT   : CAMEROUN
+                                 (MOIS: JUL.                )
+                                                                  DATE DE MATURITE  : 01/07/2037
+
+           MONTANT NOMINAL CFA:          412 960                  PRIME       FCFA :      41 990
+
+           CONTRATS SUPPLEMENTAIRES
+            IMPRIME 130/FORM 130    (A.I)                                      CFA :       2 271
+           DISABILITY PRM                                                      CFA :          41
+           TVA                                                                 CFA :       5 698
+                                                                  ------------------------------
+                                                                  TOTAL        CFA :      50 000
+           FAIT A DOUALA, REPUBLIQUE DU CAMEROUN, LE 21/06/2023
+
+         ----------------------------------------------------------------------------------------
+                               BENEFICES DU CONTRAT DE BASE
+          DUREE:     1an     2ans     3ans     4ans     5ans     6ans     7ans     8ans  ECHEANCE
+                 ------- -------- -------- -------- -------- -------- -------- -------- ---------
+           PRM:    41990    83980   125970   167960   209950   251940   293930   335920    587860
+            CD:   412960   412960   412960   412960   412960   412960   412960   412960    247776
+          PMTY:        0        0    41296    42741    44237    87081    90129    93283    207951
+            VR:        0             55516    46887    74956   104032    93422   123069
+
+           PRM: Cumul des Primes.     CD: Capital vers{ en cas de D{c}s ou @ {cheance.
+          PMTY: Maturit{s Partielles Investies.      VR: Valeur de Rachat.
+
+         J'ai pris connaissance des dispositions du contrat.
+         Les garanties qui y figurent sont conformes @
+         celles demand{es dans la proposition. Mon {tat
+         de sant{ n'a pas chang{ depuis ma demande
+         d'assurance.
+
+         Date: ______________________
+
+
+         _________________________    _________________________    __________________________
+              Le Contractant                  L'Assur{             PRUDENTIAL BENEFICIAL LIFE
